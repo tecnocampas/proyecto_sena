@@ -9,8 +9,13 @@ function App() {
       Soy un botón
     </button>
     
-    <h1>Hola Mundo De La Programacion</h1>
-    <p>En esta app estamos aprendiendo a desarrollar</p>
+    <h1>Hola Mundo De La Programacion</h1> 
+
+    <p>En esta app estamos aprendiendo a desarrollar
+       lo mas importante  de aprender, es tener las ganas  y la dedicacion asi
+       como la fe en que si vamos a aprender  y algo muy util es la practica
+    </p>
+    
 
     
     
@@ -19,6 +24,7 @@ function App() {
     
   );
 }
+
 
 
 
